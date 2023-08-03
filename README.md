@@ -1,0 +1,2 @@
+# Tickerbay-react
+Confidential
